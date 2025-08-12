@@ -1,0 +1,16 @@
+#include <math.h>
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+#include <assert.h>
+#include <limits.h>
+#include <stdbool.h>
+
+int main() {
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */
+    char s[10005],t[10005];
+    scanf("%s",s);
+    scanf("%s",t);
+    strings_xor(s,t);
+    return 0;
+}
