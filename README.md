@@ -1,6 +1,6 @@
 # 5213408_Keerthanabk
 <img src="https://github.com/Keerthanabk13/5213408_Keerthanabk/blob/main/SDLC/agile.jpg" alt="image">
-<img src="https://github.com/Keerthanabk13/5213408_Keerthanabk/blob/main/GIT/Git%20certificate.pdf" alt="image">
+<img src="https://github.com/Keerthanabk13/5213408_Keerthanabk/blob/main/GIT/git%20certificate.png" alt="image">
 <img src="https://github.com/Keerthanabk13/5213408_Keerthanabk/blob/main/Linux/linux%20cmd%201.png" alt="image">
 <img src="https://github.com/Keerthanabk13/5213408_Keerthanabk/blob/main/Linux/linux%20cmd%202.png" alt="image">
 <img src="https://github.com/Keerthanabk13/5213408_Keerthanabk/blob/main/Linux/linux%20cmd%203.png" alt="image">
